@@ -17,7 +17,11 @@ class MyClass
        
         my method3
        {
+
        system.out.println("hello world")
+
+        //  sysout="message 1"
+
        }
 
 }
